@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayApp", "HolidayApp\HolidayApp.csproj", "{012A2173-7BA9-4932-A0C3-F043ED93CFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012A2173-7BA9-4932-A0C3-F043ED93CFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012A2173-7BA9-4932-A0C3-F043ED93CFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012A2173-7BA9-4932-A0C3-F043ED93CFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012A2173-7BA9-4932-A0C3-F043ED93CFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F6472E6-0026-4352-BD21-1B83C924DF04}
+	EndGlobalSection
+EndGlobal
